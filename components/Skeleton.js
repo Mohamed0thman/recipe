@@ -1,4 +1,5 @@
 export default function Skeleton() {
+  console.log("done");
   return (
     <div className="skeleton">
       <div className="s-banner"></div>
